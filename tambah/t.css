@@ -1,0 +1,14 @@
+label
+{
+    display: inline-block;
+    width: 95px;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+body
+{
+    margin: 0;
+    padding: 10px;
+    background-color: #F1F5F9;
+    color: #0F172A;
+}

@@ -1,0 +1,6 @@
+body
+{
+    background-image: url("../gambar/background.png");
+    background-size: cover;
+    /*background:linear-gradient(#02021D 5%,#0E117F 40%,#2A32B8 80%);*/
+}

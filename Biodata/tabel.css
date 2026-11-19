@@ -1,0 +1,31 @@
+body
+{
+    background-color: white;
+}
+.k
+{
+    color: #0B1F3A;
+}
+tr:nth-child(1)
+{
+    background-color: 	#1976D2;
+    color: 	#0F172A;
+}
+tr:nth-child(2),tr:nth-child(4),tr:nth-child(6),tr:nth-child(8),tr:nth-child(10)
+{
+    background-color: #F1F5F9;
+}
+
+table 
+{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+table tr:first-child td:first-child {
+    border-top-left-radius: 10px;
+}
+table tr:first-child td:last-child {
+    border-top-right-radius: 10px;
+}
+
